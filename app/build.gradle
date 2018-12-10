@@ -5,7 +5,7 @@ android {
 	buildToolsVersion "26.0.2"
 
 	defaultConfig {
-		applicationId "com.invengo.basetmp"
+		applicationId "tk.ziniulian.job.xc2910demo"
 		minSdkVersion 11
 		targetSdkVersion 17
 		versionCode 2

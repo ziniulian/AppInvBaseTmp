@@ -8,8 +8,6 @@ import android.view.KeyEvent;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 
-import com.invengo.basetmp.R;
-
 import tk.ziniulian.job.xc2910demo.entity.Web;
 import tk.ziniulian.job.xc2910demo.enums.EmUh;
 import tk.ziniulian.job.xc2910demo.enums.EmUrl;

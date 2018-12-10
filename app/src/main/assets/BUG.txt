@@ -1,1 +1,7 @@
-﻿
+﻿V0.0.3 ：
+	1. 将 tk.ziniulian.util.dao.EmLocalCrtSql 和 EmLocalSql 枚举 提取到 tk.ziniulian.job.xc2910demo.enums 中
+	2. 将 Web 类抽象出一个通用父类
+	3. 加入 main.js 和 tools.js
+	4. 修改 web 文件夹结构，以适应不同皮肤的相同 js
+	5. 加入版本获取函数
+	6. 更新 WebService 通用类

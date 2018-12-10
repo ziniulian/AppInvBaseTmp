@@ -1,4 +1,9 @@
-﻿
+﻿模板使用步骤：
+	1. 新建 package ， 输入包名
+	2. 将 tk.ziniulian.job.xc2910demo 内容剪切到新建的 package 中
+	3. 修改 AndroidManifest.xml 文件， 将 manifest.package 改为新建的包名
+	4. 修改 build.gradle 文件， 将 android.defaultConfig.applicationId 改为新建的包名
+
 V0.0.2 ：
 完成时间 ： 2018-11-27 17:00
 完成人：李泽荣
